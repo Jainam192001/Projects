@@ -1,0 +1,109 @@
+{
+  "name": "Jainam Patel",
+  "contact": {
+    "email": "Jainam.patel@hydroone.ca",
+    "phone": "+1 (365) 883 2719",
+    "linkedin": "https://www.linkedin.com/in/jainam-patel-89753b1b8/",
+    "github": "https://github.com/Jainam192001/Projects"
+  },
+  "education": [
+    {
+      "degree": "Master of Engineering in Systems and Technology (Automation and Smart Systems)",
+      "school": "McMaster University",
+      "location": "Hamilton, ON",
+      "graduation": "Dec 2025",
+      "cgpa": "3.8 / 4.0"
+    },
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "school": "Gujarat Technological University",
+      "location": "Ahmedabad, IN",
+      "graduation": "June 2023",
+      "gpa": "9.10 / 10.0"
+    }
+  ],
+  "skills": {
+    "programming_and_web_scraping": [
+      "Python",
+      "Pyspark",
+      "R",
+      "SQL",
+      "C",
+      "HTML",
+      "CSS",
+      "Beautiful Soup",
+      "PowerShell"
+    ],
+    "cloud_services": [
+      "Databricks",
+      "Delta Tables",
+      "Azure SQL",
+      "AWS Glue",
+      "Amazon S3",
+      "AWS Lambda",
+      "Snowflake",
+      "Azure DevOPS",
+      "CI/CD",
+      "Data Warehousing",
+      "Data Wrangling",
+      "GIT",
+      "REST API",
+      "ETL/ELT",
+      "Airflow",
+      "MySQL",
+      "Tenable"
+    ],
+    "machine_learning": [
+      "Linear Regression",
+      "Logistic Regression",
+      "SVM",
+      "K-Means",
+      "Random Forest",
+      "LSTM",
+      "CNN",
+      "RNN",
+      "Deep Neural Networks",
+      "Ensemble Learning",
+      "XGBoost"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Business Analyst Co-op",
+      "company": "Hydro One Network Inc.",
+      "location": "Toronto, CA",
+      "duration": "January 2025 - August 2025",
+      "details": [
+        "Provided cybersecurity risk data and vulnerability updates from Tenable scans across 400+ endpoints, supporting budgeting and planning.",
+        "Automated patching and security tasks with 50+ PowerShell scripts deployed via Microsoft Intune, cutting remediation costs by 40%.",
+        "Developed Power BI dashboards to track vulnerability trends and patch compliance.",
+        "Managed planning documents and reports on SharePoint to align business data with IT security.",
+        "Delivered frontline Tech Bar support, resolving 100+ technical issues monthly.",
+        "Supported Windows 10 to 11 migration on 200+ devices.",
+        "Collaborated with Finance, IT, and Cybersecurity teams for regulatory reporting and compliance documentation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "UCI Adult Income Prediction",
+      "description": "Built and tuned ML models (Logistic Regression, Decision Tree, SVM) on UCI Adult dataset to classify $50K+ earners, achieving 91% ROC-AUC.",
+      "link": "https://github.com/Jainam192001/Projects/blob/main/Report%20on%20prediting%20%2450K%20Annual.ipynb"
+    },
+    {
+      "name": "Object Detection Model Using Faster R-CNN",
+      "description": "Developed and optimized a Faster R-CNN object detection model using PyTorch on Pascal VOC 2012 dataset.",
+      "link": "https://github.com/Jainam192001/Projects/blob/main/Group_C01_08_Code.ipynb"
+    },
+    {
+      "name": "Exploratory Data Analysis on Household Energy Consumption",
+      "description": "Performed EDA using Python to clean and visualize household energy usage patterns.",
+      "link": "https://github.com/Jainam192001/Projects/blob/main/Energy%20Consumption%20of%20Household%20Appliances.ipynb"
+    },
+    {
+      "name": "Nifty 50 and Nifty Bank Time Series Prediction",
+      "description": "Built SARIMAX-based time series model to compare Nifty 50 and Nifty Bank performance with OHLC charts.",
+      "link": "https://github.com/Jainam192001/Projects/blob/main/Nifty_50_visualization_and_Forecasting.ipynb"
+    }
+  ]
+}
